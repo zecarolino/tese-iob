@@ -1,0 +1,6 @@
+[submodule "py2hwsw"]
+	path = py2hwsw
+	url = https://github.com/IObundle/py2hwsw.git
+[submodule "iob-cache-testcoverage"]
+	path = iob-cache-testcoverage
+	url = https://github.com/zecarolino/iob-cache-testcoverage.git
